@@ -1,5 +1,5 @@
 import { Equal, Expect } from '@type-challenges/utils'
-import { Length } from '../src/18-easy-tuple-length'
+import { Length } from '../../src/easy/18-easy-tuple-length'
 
 const tesla = ['tesla', 'model 3', 'model X', 'model Y'] as const
 const spaceX = ['FALCON 9', 'FALCON HEAVY', 'DRAGON', 'STARSHIP', 'HUMAN SPACEFLIGHT'] as const

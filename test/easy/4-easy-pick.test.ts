@@ -1,5 +1,5 @@
 import { Equal, Expect } from '@type-challenges/utils'
-import { MyPick } from '../src/4-easy-pick';
+import { MyPick } from '../../src/easy/4-easy-pick';
 
 type cases = [
   /*

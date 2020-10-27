@@ -1,5 +1,5 @@
 import { Equal, Expect, ExpectFalse, NotEqual } from '@type-challenges/utils'
-import { MyExclude } from '../src/43-easy-exclude'
+import { MyExclude } from '../../src/easy/43-easy-exclude'
 
 type cases = [
     Expect<Equal<MyExclude<"a" | "b" | "c", "a">, Exclude<"a" | "b" | "c", "a">>>,

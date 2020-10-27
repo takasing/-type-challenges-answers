@@ -1,5 +1,5 @@
 import { Equal, Expect } from '@type-challenges/utils'
-import { First } from '../src/14-easy-first'
+import { First } from '../../src/easy/14-easy-first'
 
 type cases = [
   // 配列の最初
